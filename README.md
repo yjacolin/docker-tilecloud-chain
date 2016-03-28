@@ -1,9 +1,13 @@
 # Tilecloud-chain
 
-## Install
+For more information, see tilecloud-chain repository: 
+https://github.com/sbrunner/tilecloud-chain
 
+## Install
+```
 $ git clone
 $ docker build -t yjacolin/tilecloud-chain .
+```
 
 ## Run tilecloud-chain
 
